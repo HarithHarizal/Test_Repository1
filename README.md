@@ -1,3 +1,10 @@
-# this is a test repository, so nothing important here
+# Just a test repositroy 
+#Introduction
 
-TODO add more content
+This is a repository created by *Harith*
+
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
